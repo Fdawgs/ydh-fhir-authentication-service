@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.0.5](https://www.github.com/Fdawgs/ydh-fhir-authentication-service/compare/v1.0.4...v1.0.5) (2021-03-08)
+
+
+### Miscellaneous
+
+* **workflows:** rename ci and perf sections ([e3e360f](https://www.github.com/Fdawgs/ydh-fhir-authentication-service/commit/e3e360f0fc9c23de5399d1fa0c5b1415ba5d9fae))
+
 ### [1.0.4](https://www.github.com/Fdawgs/ydh-fhir-authentication-service/compare/v1.0.3...v1.0.4) (2021-03-03)
 
 
